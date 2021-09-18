@@ -1,0 +1,40 @@
+﻿System
+-create Admin, Manager, and User
+-if the user is accessing the system for the 
+first time.  Clicking this button should 
+display a user interface where the user 
+will provide personal information such as
+first name, last name, address, DOB, and 
+click submit to request access to the 
+application.  The administrator should 
+receive email request and must approve
+or reject the request.  If approved, an 
+email should be sent to the user with a 
+link to login to the system
+-Passwords must be a minimum of 8 
+characters, must start with a letter, must 
+have a letter, a number and a special 
+character, if this requirement is not 
+satisfied, display at appropriate error 
+message
+-A logo which will be displayed on all the pages of the application
+Login
+-A button for forgot password.  If this 
+button is clicked, the system should 
+prompt the user to enter email address 
+and user id the person provided when his 
+credentials were created in the system 
+and ask security questions to allow 
+him to supply new password;
+9/21/2020 11:50PM
+Registration
+-remove create username and generate user name {first letter of first name}{full last name}{date created "MM/YY"}
+Logged In
+-The login username, picture, should be displayed clearly on the top right corner of the login page once they have successfully logged into the system
+Admin
+-The administrator user should be able to 
+create users and assign roles;
+-The administrator user should be able to 
+update information about a system user;
+-The administrator user should be able to 
+activate or deactivate each kind of use
